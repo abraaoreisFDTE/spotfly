@@ -1,4 +1,4 @@
-# este Mobile | SevenApps
+# Teste Mobile | SevenApps
 ​O seu desáfio será de criar uma tela de listagem de musicas e playlists com informações como foto do artista, nome, nome da musica, e duração da musica, e criar uma tela para adicionar filtros na pesquisa. O estilo da pagina e dos componentes fica ao seu critério.​
 
 # Requisitos principais:
